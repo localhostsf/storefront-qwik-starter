@@ -72,7 +72,7 @@ export default component$(() => {
 					</div>
 
 					<p class="mt-4 text-2xl text-white">
-						A headless commerce storefront starter kit built with{' '}
+						photo lab commerce storefront starter kit built with{' '}
 						<a
 							href="https://www.vendure.io"
 							target="_blank"
