@@ -72,7 +72,7 @@ export default component$(() => {
 					</div>
 
 					<p class="mt-4 text-2xl text-white">
-						photo lab commerce storefront starter kit built with{' '}
+						storefront for photographers to sell prints{' '}
 						<a
 							href="https://www.vendure.io"
 							target="_blank"
