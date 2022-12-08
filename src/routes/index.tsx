@@ -3,7 +3,7 @@ import CollectionCard from '~/components/collection-card/CollectionCard';
 import { APP_STATE } from '~/constants';
 
 export const headerImage =
-	'https://imagedelivery.net/CIDp2lvkcu5-QgqFsC6Ghw/a355aca5-8c8f-4c20-7a92-4c8a78450400/public';
+	'https://imagedelivery.net/CIDp2lvkcu5-QgqFsC6Ghw/7c43fcb6-8802-4f33-77b6-366da23d1b00/public';
 
 export default component$(() => {
 	const collections = useContext(APP_STATE).collections;
