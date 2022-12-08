@@ -3,7 +3,7 @@ import CollectionCard from '~/components/collection-card/CollectionCard';
 import { APP_STATE } from '~/constants';
 
 export const headerImage =
-	'https://demo.vendure.io/assets/preview/2f/mikkel-bech-748940-unsplash__preview.jpg';
+	'https://imagedelivery.net/CIDp2lvkcu5-QgqFsC6Ghw/610db641-7baa-4a23-7cc5-0321c190f300/public';
 
 export default component$(() => {
 	const collections = useContext(APP_STATE).collections;
